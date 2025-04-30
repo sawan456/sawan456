@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawan456&label=Profile%20views&color=0e75b6&style=flat" alt="sawan456" /> </p>
 
-- 🌱 I’m currently learning **ReactJs,ExpressJs,NodeJs,MongoDb**
+- 🌱 I’m currently building scalable applications using  **Java,SpringBoot,MySql**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me anything from **Java**
 
-- 📫 How to reach me **goludu10@gmail.com**
+- 📫 How to reach me **sawanrawat2001@gmail.com**
 
 - ⚡ Fun fact **I love music**
 
